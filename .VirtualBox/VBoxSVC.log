@@ -1,0 +1,13 @@
+24:00:02.359994          Log continuation - Log started 2023-07-20T23:02:53.097654900Z
+24:00:02.494181          Finished saving settings file "C:\Users\DESKTOP\.VirtualBox\VirtualBox.xml"
+24:00:02.498643          Saving settings file "C:\Users\DESKTOP\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+24:00:02.562622          Finished saving settings file "C:\Users\DESKTOP\.VirtualBox\VirtualBox.xml"
+24:00:02.563225          Saving settings file "C:\Users\DESKTOP\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+24:00:02.628356          Finished saving settings file "C:\Users\DESKTOP\.VirtualBox\VirtualBox.xml"
+24:34:52.787982 main     WM_QUERYENDSESSION: shutdown (0x00000000)
+24:34:52.788153 main     VBoxSvc has active connections: bActivity = false, lock count = 2
+24:34:56.850163 main     VirtualBox: object deletion starts
+24:34:57.682893 main     HostDnsMonitor: shutting down ...
+24:34:57.683218 main     HostDnsMonitor: shut down
+24:34:57.797404 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+24:34:57.995441 main     VirtualBox: object deleted
